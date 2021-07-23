@@ -6,6 +6,7 @@ I've been in-and-out of the cyberspace for quite some time. Ever since I was a k
 
 ## Stats
 <a href="https://github.com/iclapcheeks/iclapcheeks"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iclapcheeks&layout=compact&theme=tokyonight"/></a>
+
 <a href="https://github.com/iclapcheeks/iclapcheeks"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iclapcheeks&layout=compact&theme=tokyonight"/></a>
 
 ## Contact
