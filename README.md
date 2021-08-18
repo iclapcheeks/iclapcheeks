@@ -2,6 +2,7 @@
 
 ## About Me
 - Developer for 5+ years
+- GFX Designer for 3+ years
 - Reverse Engineer for 1 year
 - UI/UX Designer for 3 months
 
