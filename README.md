@@ -1,5 +1,4 @@
 <h1 align="center">Hey, I'm iclapcheeks!</h1>
-<p align="left"><img src="https://gpvc.arturio.dev/iclapcheeks"/></p>
 
 ## About Me
 - Developer for 5+ years
