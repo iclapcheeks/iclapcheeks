@@ -8,7 +8,7 @@
 
 ## Contact
 - Discord: iclapcheeks#6957
-- Telegram: iclapcheeks
+- Telegram: @clapcheeks
 
 ## Stats
 <a href="https://github.com/iclapcheeks/iclapcheeks"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iclapcheeks&layout=compact&theme=tokyonight"/></a>
