@@ -1,8 +1,7 @@
 <h1 align="center">Hey, I'm iclapcheeks!</h1>
 
 <div align="center">
- 
- ## About Me
+
  Developer for 5+ years <br>
  GFX Designer for 3+ years <br>
  Reverse Engineer for 1 year <br>
