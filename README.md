@@ -8,7 +8,7 @@
  UI/UX Designer for 3 months <br>
 
  ## Contact
- Discord: iclapcheeks#6957
+ Discord: iclapcheeks#6957 <br>
  Telegram: @clapcheeks
 
  ![iclapcheeks's GitHub stats](https://github-readme-stats.vercel.app/api?username=iclapcheeks&show_icons=true&theme=tokyonight&line_height=33&bg_color=00000000&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&enable_animations=true")
